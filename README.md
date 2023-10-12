@@ -1,6 +1,6 @@
 # Tuning-W-SF
 Lee, H. Tuning the Weights: The Impact of Initial Matrix Configurations on Successor Features' Learning Efficacy. Electronics 2023
-
+https://doi.org/10.3390/electronics12204212
 
 ### To run this simulation
 * main_SR.py
